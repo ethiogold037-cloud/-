@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dergag Community Unity \u0026 Charity Association",
+  "description": "Enterprise-grade web platform for Dergag Community Unity \u0026 Charity Association featuring membership management, charity campaigns, community development projects, multilingual support (Amharic \u0026 English), and comprehensive administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
